@@ -104,7 +104,7 @@ reviews[7].feedback = "this place is chill with really cool people, great for ge
 Write a function to return a review based on the index of the review in the array.
 
 Use the getReviewByIndex function below to do the following:
-  1. Receive an arrayyyyyy
+  1. Receive an array
   2. Receive a number which is the desired index in the array
   3. The function should return the following string: "{name} gave the restaurant a {rating} star review, and their feedback was: {feedback}"
   For example: getReviewByIndex(reviews,0) would return: "Daniela gave the restaurant a 5 star review, and their feedback was: Beautiful atmosphere and wonderful vegan options!"
